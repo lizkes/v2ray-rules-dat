@@ -8,5 +8,5 @@ crl.identrust.com
 mlychee.com
 anythinktech.com
 cn.akamaiedge.net
+dl.steam.ksyna.com
 regexp:steamcdn.*\\.akamaihd\\.net
-regexp:.*intl.*aliyun\\.com
